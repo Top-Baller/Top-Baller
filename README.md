@@ -1,4 +1,1 @@
-- 👋 Hi, I’m a top baller
-- 👀 I’m interested in python/java
-- 🌱 I’m currently learning python/java
-- 📫 No contacts (rip)
+:trollface:
